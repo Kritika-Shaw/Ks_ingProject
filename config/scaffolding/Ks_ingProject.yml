@@ -3,4 +3,7 @@ info:
   model: int-scaffold
 packages:
 - name: Ks_ingProject
-  gitBranch: master
+  gitServerName: ks_git
+  gitUrl: https://github.com/Kritika-Shaw
+  gitUsername: Kritika-Shaw
+  gitBranch: main
