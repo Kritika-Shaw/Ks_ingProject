@@ -1,0 +1,10 @@
+version: "1.0"
+projectName: Ks_ingProject
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: wf1
+    type: workflow
+    uid: flb72c7b2b38294e9681f8a397c0b50cb9
+    stepId: a0
+    reference: project.kritika.integrations:date
